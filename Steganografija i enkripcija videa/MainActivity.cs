@@ -7,6 +7,9 @@ using AndroidX.AppCompat.Widget;
 using AndroidX.AppCompat.App;
 using Google.Android.Material.FloatingActionButton;
 using Google.Android.Material.Snackbar;
+using Emgu.CV;
+using Emgu.CV.Structure;
+using NAudio.Wave;
 
 namespace Steganografija_i_enkripcija_videa
 {
